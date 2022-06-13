@@ -1,0 +1,5 @@
+telegram
+python-telegram-bot
+bs4
+requests
+json
